@@ -1,0 +1,20 @@
+{
+  "firstLevel-object": {    
+    "secondLevel-int": "456",
+    "secondLevel-string": "some string",
+    "secondLevel-scalarArray": [
+      "value1",
+      "value2",
+      "value3"
+    ],
+    "secondLevel-objectArray": [
+      {"property": "property-value1"},
+      {"property": "property-value2"}
+    ],
+    "secondLevel-object": {
+      "thirdLevel": "123.456"
+    }
+  },
+  "firstLevel-string": "other string",
+  "firstLevel-int": "123"
+}
